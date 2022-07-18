@@ -1,0 +1,6 @@
+dark-mode:
+  light: 白天
+  dark: 黑暗
+not-found:
+  not-found: 未找到页面
+  back: 返回上一页

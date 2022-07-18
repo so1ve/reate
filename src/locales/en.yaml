@@ -1,0 +1,6 @@
+dark-mode:
+  light: Light
+  dark: Dark
+not-found:
+  not-found: Not found
+  back: Back
