@@ -12,6 +12,8 @@ A react + vite starter template. Inspired by [Vitesse](https://github.com/antfu/
 
 - 🎨 [UnoCSS](https://github.com/unocss/unocss) - the instant on-demand atomic CSS engine
 
+- 🥝 [Google Fonts](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader for vite
+
 - 😃 [Use icons from any icon sets with classes](https://github.com/unocss/unocss/tree/main/packages/preset-icons)
 
 - 🌍 [I18n ready](./src/locales)
@@ -44,7 +46,7 @@ A react + vite starter template. Inspired by [Vitesse](https://github.com/antfu/
 - [`unplugin-auto-import`](https://github.com/antfu/unplugin-auto-import) - Directly use Vue Composition API and others without importing
 - [React I18next](https://github.com/i18next/react-i18next) - Internationalization
   - [`@rollup/plugin-yaml`](https://github.com/rollup/plugins/tree/master/packages/yaml) - Support importing yaml files
-- [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
+- [`vite-plugin-fonts`](https://github.com/stafyniaksacha/vite-plugin-fonts) - Webfont loader for vite
 
 ### Coding Style
 
