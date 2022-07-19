@@ -24,11 +24,8 @@ export default defineConfig({
     AutoImport({
       imports: [
         "react",
-        {
-          "react-i18next": [
-            "useTranslation",
-          ],
-        },
+        "react-router-dom",
+        "react-i18next",
       ],
       dts: "src/auto-imports.d.ts",
     }),
